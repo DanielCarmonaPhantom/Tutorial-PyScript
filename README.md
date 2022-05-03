@@ -1,1 +1,1 @@
-# Tutorial-PyScript
+# Tutorial PyScript
